@@ -41,24 +41,24 @@ Through coursework and independent projects, I have developed experience in Pyth
 
 ## Featured Projects
 
-### 1. Customer Segmentation Analysis
+### 1. [Customer Personality Segmentation](https://github.com/peregoy-tech/customer-personality-segmentation)
+
 **Technologies:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
-- Conducted exploratory data analysis to identify customer behavior patterns.
-- Performed data cleaning, preprocessing, and feature engineering.
-- Applied K-Means clustering to segment customers based on purchasing behavior.
-- Evaluated clustering performance using elbow and silhouette methods.
-- Developed customer profiles and business recommendations based on segmentation results.
+- Conducted exploratory data analysis to identify customer demographics and purchasing behavior.
+- Applied K-Means clustering to identify distinct customer segments.
+- Evaluated clustering performance using the elbow method and silhouette analysis.
+- Developed customer profiles and business recommendations based on analytical findings.
+
+[View Project Repository](https://github.com/peregoy-tech/customer-personality-segmentation)
 
 ### 2. Recommendation System
-**Technologies:** Python, Pandas, NumPy
 
-- Explored recommendation system techniques to identify relevant recommendations.
-- Applied similarity-based recommendation methods.
-- Evaluated recommendation performance using ranking metrics.
-- Analyzed results to understand recommendation quality and system performance.
+*Coming soon!*
 
-### 3. Additional Projects Coming Soon!
+### 3. Sales Performance Analysis
+
+*Coming soon!*
 
 ## Professional Interests
 
