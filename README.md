@@ -52,9 +52,16 @@ Through coursework and independent projects, I have developed experience in Pyth
 
 [View Project Repository](https://github.com/peregoy-tech/customer-personality-segmentation)
 
-### 2. Recommendation System
+### 2. [Employee Attrition Analysis](https://github.com/peregoy-tech/employee-attrition-prediction)
 
-*Coming soon!*
+**Technologies:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+
+- Conducted exploratory data analysis to identify patterns associated with employee attrition.
+- Developed and compared multiple machine learning classification models.
+- Evaluated predictive performance using accuracy, precision, recall, and F1 score.
+- Explored how predictive analytics can support employee retention and workforce planning.
+
+[View Project Repository](https://github.com/peregoy-tech/employee-attrition-prediction)
 
 ### 3. Sales Performance Analysis
 
