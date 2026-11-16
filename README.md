@@ -63,9 +63,17 @@ Through coursework and independent projects, I have developed experience in Pyth
 
 [View Project Repository](https://github.com/peregoy-tech/employee-attrition-prediction)
 
-### 3. Sales Performance Analysis
+### 3. [Amazon Product Recommendation System](https://github.com/peregoy-tech/amazon-product-recommendation-system)
 
-*Coming soon!*
+**Technologies:** Python, Pandas, NumPy, Scikit-Learn, Surprise
+
+- Developed popularity-based and collaborative filtering recommendation models.
+- Implemented user-user and item-item similarity approaches.
+- Applied Singular Value Decomposition (SVD) for matrix factorization.
+- Evaluated recommendation performance using Precision@K, Recall@K, F1-score@K, and RMSE.
+- Optimized model performance through hyperparameter tuning.
+
+[View Project Repository](https://github.com/peregoy-tech/amazon-product-recommendation-system)
 
 ## Professional Interests
 
